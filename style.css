@@ -1,0 +1,25 @@
+html, body {
+    height: 100%;
+  }
+body {
+    display: flex; 
+    flex-direction: column;
+    background: linear-gradient(119deg, rgb(49, 217, 235) 0%, rgba(255,166,0,1) 99%) no-repeat;
+    background: rgb(235, 223, 49);
+    
+}
+h1{
+    text-align: center;
+    margin-top: 15%;
+}
+.date {
+    margin-left: 25%;
+    font-size: 70px;
+    width: 50%;
+    height: 70px;
+    background-color: aqua;
+    text-align: center;
+    border-radius: 10px;
+    border-style: inset;
+    border-color: gray;
+}
